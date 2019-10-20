@@ -1,0 +1,9 @@
+.texto1 {
+  color: #DEDEDE;
+}
+.margem-botao {
+  margin-top: 3rem !important;
+}
+.card-transparente {
+  background-color: rgba(245, 245, 245, 0.8);
+}
